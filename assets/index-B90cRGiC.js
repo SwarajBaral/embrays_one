@@ -47,7 +47,6 @@ Error generating stack: `+o.message+`
   align-items: flex-start;
   justify-content: center;
   height: 50vh;
-  outline: 1px solid whitesmoke;
 `,b0=se.div`
   width: 100%;
   height: 50vh;
