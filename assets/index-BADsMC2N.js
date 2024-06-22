@@ -169,11 +169,13 @@ Error generating stack: `+o.message+`
   font-size: 48px;
   line-height: 60px;
   letter-spacing: 2px;
+  color: ${({theme:e})=>e.text};
 `,i1=V.p`
   margin: 0;
   font-family: "Satoshi", sans-serif;
   font-weight: 100;
   line-height: 1.7rem;
+  color: ${({theme:e})=>e.text};
 `,o1=({title:e,description:t,imageSrc:n})=>z.jsxs(Z0,{children:[z.jsxs(J0,{children:[z.jsx("img",{src:n,alt:e}),z.jsxs("div",{className:"overlay",children:[z.jsx(e1,{children:"COMING SOON"}),z.jsx(t1,{children:"Bangalore Only"})]})]}),z.jsxs(n1,{children:[z.jsx(r1,{children:e}),z.jsx(i1,{children:t})]})]}),l1=V.section`
   padding: 4rem 12rem;
   color: white;
