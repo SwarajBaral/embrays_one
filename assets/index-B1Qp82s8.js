@@ -251,7 +251,6 @@ Error generating stack: `+o.message+`
       margin: 1rem 0;
       font-size: 1rem;
     }
-    outline: 1px solid red;
   }
 `,O1=V.div`
   display: none;
